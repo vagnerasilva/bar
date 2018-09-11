@@ -13,3 +13,9 @@ git remote add origin giturl
 git remote set-url --add --push all git url
 
 Alterando credenciais no azuredevops
+
+
+comandos uteis
+git checkout master
+git merge origin/master --allow-unrelated-histories
+
